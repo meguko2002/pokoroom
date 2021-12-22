@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = '951951'
 
 USERLIST = {
-    'taro@gmail.com': 'aaa',
+    'poko@gmail.com': 'poko',
     'hanako@yahoo.co.jp': 'bbb',
     'meguko2002@gmail.com': 'meguko',
 }
