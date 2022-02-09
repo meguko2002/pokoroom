@@ -11,7 +11,6 @@ app.secret_key = '951951'
 USERLIST = {
     'poko@gmail.com': 'poko',
     'hanako@yahoo.co.jp': 'bbb',
-    'meguko2002@gmail.com': 'meguko',
 }
 
 
